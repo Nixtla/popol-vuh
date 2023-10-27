@@ -1,17 +1,27 @@
 # Popol Vuh: Nixtla's operating system
 
-## Nixtla's Creed - Cultures comes first
+## Nixtla's Creed - Culture comes first
 [I will never stop learning](#i-will-never-stop-learning). [I will build our business  through creating the most value for our community of users, customers and collegues](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues). I believe that Open Source is an extremely powerful idea. [I am motivated by impact.](#i-am-motivated-by-impact) [I will communicate as much as possible, because it’s the oxygen of a distributed company](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company) I will never pass up an opportunity to help out a colleague, and I’ll remember the days before I knew everything. I believe in first principles thinking. [I ship with quality and speed.](#i-ship-with-quality-and-speed)
+I value the bond that connects us as a team and drives our commitment to our work. I believe in treating each other, and the world, with compassion, kidness and respect.
 
+
+## Nixtla's Values
+
+## History 
+
+## Blurbs
+
+## Investors
+
+## Expansions of Creed - Culture comes first
 
 ### [I will never stop learning](#i-will-never-stop-learning)
 The first and most important line of the creed means that you’re never finished. There is always more to learn. The enemy of this is thinking you’re right, putting too much weight on your experience, or passing up an opportunity to understand someone’s point of view.
 
-## [I will build our business  through creating the most value for our community of users, customers and collegues.](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues)
+### [I will build our business  through creating the most value for our community of users, customers and collegues.](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues)
 We define success as maximazing the wellfare of the groups that consitute Nixtla. We want to create the most possible welfare for our community of customers, users, collegues and investors. We understand this as a max-min  Rawlsian social welfare function.  
 
 Wellness is: 
-
 
 $$
 \max_{x\in X}\min_{i\in I}u_{i}(x)
@@ -22,9 +32,6 @@ Where $X$ be a set of possible 'states of the world' or 'alternatives states of 
 Let $I$ be a finite set, representing a collection of individuals.  For each $i \in I$, let $u_i:X\longrightarrow\mathbb{R}$ be a utility function, describing the amount of happiness or welness an individual $i$ derives from each possible state.
 
 A social choice theory|social choice rule is a mechanism which uses the data $(u_i)_{i \in I}$ to select some element(s) from $X$ which are `best' for society. The question of what 'best' means is the basic question of social choice theory. The 'egalitarian rule' selects an element $x \in X$ which maximizes the 'minimum utility', that is, it solves the following optimization problem: 
-
-
-
 
 
 ### [I will never pass up an opportunity to help out a colleague](#i-will-never-pass-up-an-opportunity-to-help-out-a-colleague)
