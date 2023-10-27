@@ -12,7 +12,8 @@ The first and most important line of the creed means that you’re never finishe
 ## [I will build our business  through creating the most value for our community of users, customers and collegues.](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues)
 We define success as maximazing the wellfare of the groups that consitute Nixtla. We want to create the most possible welfare for our community of customers, users, collegues and investors. We understand this as a max-min  Rawlsian social welfare function.  
 
-Wellness is $\max _{x\in X}\min _{i\in I}u_{i}(x)$.
+Wellness is 
+$\max _{x\in X}\min _{i\in I}u_{i}(x)$
 
 Where $X$ be a set of possible 'states of the world' or 'alternatives states of our company'. Nixtla wishes to choose a single state from $X$.  
 
