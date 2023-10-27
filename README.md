@@ -25,6 +25,10 @@ I put culture first.[I will never stop learning](#i-will-never-stop-learning). [
 The first and most important line of the creed means that you’re never finished. There is always more to learn. The enemy of this is thinking you’re right, putting too much weight on your experience, or passing up an opportunity to understand someone’s point of view.
 
 ### [I will build our business  through creating the most value for our community of users, customers and collegues.](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-colleagues)
+
+There are three groups of people that we care most about: users, customers, collegues and investors. We want to create the most possible value for them. We understand this as a max-min  Rawlsian  welfare function. We believe that by optimizing that wellnes function we will ultimately reach financial success and personal satisfaction. 
+
+
 We define success as maximazing the wellfare of the groups that consitute Nixtla. We want to create the most possible welfare for our community of customers, users, collegues and investors. We understand this as a max-min  Rawlsian social welfare function.  
 
 Wellness is: 
@@ -75,5 +79,6 @@ We understand quality of our work with the following criteria:
 
 If you are not embarrassed by your old code, you’re not learning enough. If you’re not embarrassed when you ship your first version, you waited too long. =
 
-I believe in first principles thinking.
-I ship with quality and speed.
+Good workd is anchored in first principles thinking.
+
+I strive to deliver high-quality work with efficiency. This means that I aim to produce work that not only meets the standards and expectations set but also does so in a timely manner. I understand that in our fast-paced industry, speed is of the essence. However, I also recognize that quality should never be compromised for speed. Therefore, I always seek to strike a balance between the two, ensuring that I deliver excellent work within the required timelines.
