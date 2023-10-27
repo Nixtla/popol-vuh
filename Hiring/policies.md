@@ -6,7 +6,7 @@ To solidify our commitment to fostering a diverse and inclusive work environment
 
 ### Formula:
 $$
-\text{D\&I Index} = \left( \frac{\sum_{i=1}^{n} E_{i,\text{underrep}}}{\sum_{i=1}^{m} E_{i,\text{total}}} \right) \times 100 > 50
+\text{DI Index} = \left( \frac{\sum_{i=1}^{n} E_{i,\text{underrep}}}{\sum_{i=1}^{m} E_{i,\text{total}}} \right) \times 100 > 50
 $$
 
 ### Target:
@@ -36,10 +36,10 @@ We are unwavering in our dedication to achieving and sustaining this target, rec
 Considering that a diverse pool of talent contributes positively to the utility function of an organization, we can express the relationship between remote work, diversity, and utility mathematically.
 
 Let:
-- $ U $ represent the utility function of the organization.
-- $ D $ represent the diversity of the talent pool.
-- $ T $ represent the size of the talent pool.
-- $ R $ be a binary variable representing the work arrangement, where $ R = 1 $ for remote work and $ R = 0 $ for traditional in-office work.
+- $U$ represent the utility function of the organization.
+- $D$ represent the diversity of the talent pool.
+- $T$ represent the size of the talent pool.
+- $R$ be a binary variable representing the work arrangement, where $ R = 1 $ for remote work and $ R = 0 $ for traditional in-office work.
 
 ### Postulate:
 More diversity leads to a greater utility function: $ \frac{\partial U}{\partial D} > 0 $.
@@ -56,10 +56,10 @@ U_R & = U(T_R, D_R)
 $$
 
 Where:
-- $ T_R $ and $ D_R $ represent the size and diversity of the talent pool with remote work, respectively.
-- $ T_0 $ and $ D_0 $ represent the initial size and diversity of the talent pool without remote work.
-- $ \Delta T(R) $ and $ \Delta D(R) $ represent the change in size and diversity of the talent pool due to remote work.
-- $ U_R $ represents the utility function of the organization with remote work.
+- $T_R$ and $D_R$ represent the size and diversity of the talent pool with remote work, respectively.
+- $T_0$ and $D_0$ represent the initial size and diversity of the talent pool without remote work.
+- $\Delta T(R)$ and $\Delta D(R)$ represent the change in size and diversity of the talent pool due to remote work.
+- $U_R$ represents the utility function of the organization with remote work.
 
 ### Conclusion:
-Given that remote work ($ R = 1 $) generally allows access to a broader and more diverse talent pool compared to in-office work, we expect $ \Delta T(R) > 0 $ and $ \Delta D(R) > 0 $. Therefore, remote work enhances both the size ($ T $) and diversity ($ D $) of the talent pool, leading to a higher utility function ($ U $) for the organization.
+Given that remote work ($R = 1$) generally allows access to a broader and more diverse talent pool compared to in-office work, we expect $\Delta T(R) > 0 $ and $ \Delta D(R) > 0$. Therefore, remote work enhances both the size ($T$) and diversity ($D$) of the talent pool, leading to a higher utility function ($U$) for the organization.
