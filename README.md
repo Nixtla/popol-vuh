@@ -16,7 +16,7 @@ Wellness is:
 
 
 $$
-\max _{x\in X}\min_{i\in I}u_{i}(x)
+\max_{x\in X}\min_{i\in I}u_{i}(x)
 $$
 
 Where $X$ be a set of possible 'states of the world' or 'alternatives states of our company'. Nixtla wishes to choose a single state from $X$.  
