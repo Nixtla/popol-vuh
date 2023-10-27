@@ -21,8 +21,8 @@ Our goal is to maintain a D&I Index greater than 50, reflecting a workforce wher
 - $\sum_{i=1}^{m} E_{i,\text{total}}$: The total number of employees across all categories in the organization.
 - $n$: The total number of categories for underrepresented groups.
 - $m$: The total number of categories for total employees.
-- $E_{i,\text{underrep}}$: The number of employees in the $ i $-th category of underrepresented groups.
-- $E_{i,\text{total}}$: The number of employees in the $ i $-th category of total employees.
+- $E_{i,\text{underrep}}$: The number of employees in the $i$-th category of underrepresented groups.
+- $E_{i,\text{total}}$: The number of employees in the $i$-th category of total employees.
 
 ### Commitment:
 
@@ -39,10 +39,10 @@ Let:
 - $U$ represent the utility function of the organization.
 - $D$ represent the diversity of the talent pool.
 - $T$ represent the size of the talent pool.
-- $R$ be a binary variable representing the work arrangement, where $ R = 1 $ for remote work and $ R = 0 $ for traditional in-office work.
+- $R$ be a binary variable representing the work arrangement, where $R = 1$ for remote work and $R = 0$ for traditional in-office work.
 
 ### Postulate:
-More diversity leads to a greater utility function: $ \frac{\partial U}{\partial D} > 0 $.
+More diversity leads to a greater utility function: $\frac{\partial U}{\partial D}>0$.
 
 ### Expression:
 Given that remote work allows access to a global talent pool, we can express the relationship as follows:
