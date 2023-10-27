@@ -1,9 +1,7 @@
 # Popol Vuh: Nixtla's operating system
 
 ## Nixtla's Creed - Cultures comes first
-[I will never stop learning](#i-will-never-stop-learning). I will build our business  through creating the most value for our community of users, customers and collegues. I believe that Open Source is an extremely powerful idea. I am moved by the impact of my work. I will communicate as much as possible, because it’s the oxygen of a distributed company. I will never pass up an opportunity to help out a colleague, and I’ll remember the days before I knew everything. I am in a long jounrey, not a sprint, and no matter how far away the goal is, the only way to get there is by putting one foot in front of another every day. I believe in first principles thinking. [I ship with quality and speed].
-
-
+[I will never stop learning](#i-will-never-stop-learning). [I will build our business  through creating the most value for our community of users, customers and collegues](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues). I believe that Open Source is an extremely powerful idea. [I am motivated by impact.](#i-am-motivated-by-impact) [I will communicate as much as possible, because it’s the oxygen of a distributed company](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company) I will never pass up an opportunity to help out a colleague, and I’ll remember the days before I knew everything. I believe in first principles thinking. [I ship with quality and speed.](#i-ship-with-quality-and-speed)
 
 
 ### [I will never stop learning](#i-will-never-stop-learning)
