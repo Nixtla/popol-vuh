@@ -15,7 +15,9 @@ We define success as maximazing the wellfare of the groups that consitute Nixtla
 Wellness is: 
 
 
-$max _{x\in X}\min _{i\in I}u_{i}(x)$
+$$
+\max _{x\in X}\min _{i\in I}u_{i}(x)
+$$
 
 Where $X$ be a set of possible 'states of the world' or 'alternatives states of our company'. Nixtla wishes to choose a single state from $X$.  
 
