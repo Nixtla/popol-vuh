@@ -11,7 +11,7 @@
    - **Objective:** Secure multiple articles and mentions in reputable publications
 
 ### 3. Innovate in Our Field
-   - **Objective:** Publish one new foundational model that pushes the boundaries of current technology
+   - **Objective:** Publish one new foundational model besides `TimeGPT-1` that pushes the boundaries of current technology
 
 ## Internal Objectives
 
