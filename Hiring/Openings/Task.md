@@ -81,13 +81,18 @@
      - Social media management.
 
 ### 2. Operations and Culture Specialist
-   - **Responsibilities:** 
-     - Handle day-to-day operations, including administrative tasks.
-     - Manage project timelines and deliverables.
-     - Foster a positive company culture and assist in recruitment.
-     - Oversee financial records, budgeting, and clerical work.
+
+
+   - **Responsibilities:**
+     - Develop and maintain metrics to track and grow the value that Nixtla provides to our users, customers and colleagues.
+     - Maintain a close relationship with the open source team to help them grow.
+     - Design and implement communication protocols across the organization. Including but not limited to common rituals such as weekly standups or all hands. We don't like meeting and we don't like the status quo. 
+     - Improve and deploy our current hiring pipeline to ensure alignment with our core principles.
+     - Ensure best practices for distributed teams are followed: we want to maximize engagement, happiness, and productivity.
+     - Design and implement team member onboarding processes.
+     - Oversee financial records, budgeting, and clerical work: payroll, accounting, etc.
+
    - **Skills Required:** 
-     - Strong organizational and multitasking skills.
      - HR and culture-building experience.
      - Financial literacy.
      - Excellent communication and interpersonal skills.
