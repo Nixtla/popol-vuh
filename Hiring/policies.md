@@ -62,4 +62,4 @@ Where:
 - $U_R$ represents the utility function of the organization with remote work.
 
 ### Conclusion:
-Given that remote work ($R = 1$) generally allows access to a broader and more diverse talent pool compared to in-office work, we expect $\Delta T(R) > 0 $ and $ \Delta D(R) > 0$. Therefore, remote work enhances both the size ($T$) and diversity ($D$) of the talent pool, leading to a higher utility function ($U$) for the organization.
+Given that remote work ($R = 1$) generally allows access to a broader and more diverse talent pool compared to in-office work, we expect $\Delta T(R)>0$ and $\Delta D(R)>0$. Therefore, remote work enhances both the size ($T$) and diversity ($D$) of the talent pool, leading to a higher utility function ($U$) for the organization.
