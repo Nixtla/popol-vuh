@@ -2,16 +2,21 @@
 
 ## Nixtla's Creed - Culture comes first
 [I will never stop learning](#i-will-never-stop-learning). [I will build our business  through creating the most value for our community of users, customers and collegues](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues). I believe that Open Source is an extremely powerful idea. [I am motivated by impact.](#i-am-motivated-by-impact) [I will communicate as much as possible, because it’s the oxygen of a distributed company](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company) I will never pass up an opportunity to help out a colleague, and I’ll remember the days before I knew everything. I believe in first principles thinking. [I ship with quality and speed.](#i-ship-with-quality-and-speed)
-I value the bond that connects us as a team and drives our commitment to our work. I believe in treating each other, and the world, with compassion, kidness and respect.
+I value the bond that connects us as a team and drives our commitment to our work. I believe in treating each other, and the world, with compassion, kidness and respect. I champion inclusion and diversity.
 
 
-## Nixtla's Values
-
-## History 
+## Mission
+[Nixtla's Mission](Mission.md)
 
 ## Blurbs
+[Blurbs](Blurbs.md)
+
+## Origin Story
+[Origin Story](OriginStory.md)
 
 ## Investors
+[Investors](Investors.md)
+
 
 ## Expansions of Creed - Culture comes first
 
