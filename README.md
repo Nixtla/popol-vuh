@@ -1,7 +1,7 @@
 # Popol Vuh: Nixtla's operating system
 
 ## Nixtla's Creed - Culture comes first
-[I will never stop learning](#i-will-never-stop-learning). [I will build our business  through creating the most value for our community of users, customers and collegues](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues). I believe that Open Source is an extremely powerful idea. [I am motivated by impact.](#i-am-motivated-by-impact) [I will communicate as much as possible, because it’s the oxygen of a distributed company](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company) I will never pass up an opportunity to help out a colleague, and I’ll remember the days before I knew everything. I believe in first principles thinking. [I ship with quality and speed.](#i-ship-with-quality-and-speed)
+[I will never stop learning](#i-will-never-stop-learning). [I will build our business  through creating the most value for our community of users, customers and collegues](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues). I believe that Open Source is an extremely powerful idea. [I am motivated by impact.](#i-am-motivated-by-impact) [I will communicate as much as possible, because it’s the oxygen of a distributed company](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company). I will never pass up an opportunity to help out a colleague, and I’ll remember the days before I knew everything. I believe in first principles thinking. [I ship with quality and speed.](#i-ship-with-quality-and-speed)
 I value the bond that connects us as a team and drives our commitment to our work. I believe in treating each other, and the world, with compassion, kidness and respect. I champion inclusion and diversity.
 
 
@@ -36,13 +36,13 @@ Where $X$ be a set of possible 'states of the world' or 'alternatives states of 
 
 Let $I$ be a finite set, representing a collection of individuals.  For each $i \in I$, let $u_i:X\longrightarrow\mathbb{R}$ be a utility function, describing the amount of happiness or welness an individual $i$ derives from each possible state.
 
-A social choice theory|social choice rule is a mechanism which uses the data $(u_i)_{i \in I}$ to select some element(s) from $X$ which are `best' for society. The question of what 'best' means is the basic question of social choice theory. The 'egalitarian rule' selects an element $x \in X$ which maximizes the 'minimum utility', that is, it solves the following optimization problem: 
+A social choice theory|social choice rule is a mechanism which uses the data $(u_i)_{i \in I}$ to select some element(s) from $X$ which are `best' for society. The question of what 'best' means is the basic question of social choice theory. The 'egalitarian rule' selects an element $x \in X$ which maximizes the 'minimum utility', that is, it solves the optimization problem above. 
 
 
 ### [I will never pass up an opportunity to help out a colleague](#i-will-never-pass-up-an-opportunity-to-help-out-a-colleague)
-It doesn’t matter who you report to or what division you’re in. If you’re an Automattician, every other Automattician is your colleague. A culture where we always try to help one another is the one we all want to work in.
+It doesn’t matter who you report to or what division you’re in. If you’re an Nixtlican, every other Nixtlican is your colleague. A culture where we always try to help one another is the one we all want to work in.
 
-Taken more broadly, “colleague” is all those in the same role in the world. Can you write a blog post or give a talk that will help everyone who is exposed to it?
+Taken more broadly, `colleague` is all those in the same role in the world. Can you write a blog post or give a talk that will help everyone who is exposed to it?
 
 Part of helping someone is communicating clearly. This doesn’t mean saying “yes” to every request. The distance between saying you’ll help someone and actually helping them is a gap often created with the best intentions. But when we don’t bridge that gap, accountability suffers throughout the organization. Our desire to help might make it tempting to tell someone we’ll do something, but we should always be impeccable with our word. 
 
@@ -64,6 +64,8 @@ However, we also like nice things and money is totally fine, and it’s complete
 No one should feel embarrassed about discussing compensation with HR. But we work for more than just a paycheck.
 
 ### [I ship with quality and speed](#i-ship-with-quality-and-speed)
+
+We understand quality of our work with the following criteria:
 
 * Ownership
 * Delivery focused
