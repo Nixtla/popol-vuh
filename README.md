@@ -1,8 +1,9 @@
 # Popol Vuh: Nixtla's operating system
 
-## Nixtla's Creed - Culture comes first
-[I will never stop learning](#i-will-never-stop-learning). [I will build our business  through creating the most value for our community of users, customers and collegues](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues). I believe that Open Source is an extremely powerful idea. [I am motivated by impact.](#i-am-motivated-by-impact) [I will communicate as much as possible, because it’s the oxygen of a distributed company](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company). I will never pass up an opportunity to help out a colleague, and I’ll remember the days before I knew everything. I believe in first principles thinking. [I ship with quality and speed.](#i-ship-with-quality-and-speed)
-I value the bond that connects us as a team and drives our commitment to our work. I believe in treating each other, and the world, with compassion, kidness and respect. I champion inclusion and diversity.
+## Nixtla's Creed - 
+
+I put culture first.[I will never stop learning](#i-will-never-stop-learning). [I will build our business through maximizing value for our users, customers and colleagues](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues). I believe that Open Source is an extremely powerful idea. [I am motivated by the impact of my work.](#i-am-motivated-by-impact) [I will communicate a lot and effectively.](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company). I value the bond that connects us as a team. I support inclusion and diversity. I believe in treating each other, and the world, with compassion, kindness and respect. [I do a freaking good job.](#i-do-a-freaking-good-job)
+
 
 
 ## Mission
@@ -23,7 +24,7 @@ I value the bond that connects us as a team and drives our commitment to our wor
 ### [I will never stop learning](#i-will-never-stop-learning)
 The first and most important line of the creed means that you’re never finished. There is always more to learn. The enemy of this is thinking you’re right, putting too much weight on your experience, or passing up an opportunity to understand someone’s point of view.
 
-### [I will build our business  through creating the most value for our community of users, customers and collegues.](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues)
+### [I will build our business  through creating the most value for our community of users, customers and collegues.](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-colleagues)
 We define success as maximazing the wellfare of the groups that consitute Nixtla. We want to create the most possible welfare for our community of customers, users, collegues and investors. We understand this as a max-min  Rawlsian social welfare function.  
 
 Wellness is: 
@@ -63,7 +64,7 @@ The reference to oxygen is not accidental: too much oxygen can be fatal as well.
 However, we also like nice things and money is totally fine, and it’s completely necessary in our current socioeconomic system for everything we want to accomplish as a company — and for many things individually. 
 No one should feel embarrassed about discussing compensation with HR. But we work for more than just a paycheck.
 
-### [I ship with quality and speed](#i-ship-with-quality-and-speed)
+### [I do a freaking good job.](#i-do-a-freaking-good-job)
 
 We understand quality of our work with the following criteria:
 
@@ -72,5 +73,7 @@ We understand quality of our work with the following criteria:
 * Tested
 * Documented
 
-If you are not embarrassed by your old code, you’re not learning enough. If you’re not embarrassed when you ship your first version, you waited too long. 
+If you are not embarrassed by your old code, you’re not learning enough. If you’re not embarrassed when you ship your first version, you waited too long. =
 
+I believe in first principles thinking.
+I ship with quality and speed.
