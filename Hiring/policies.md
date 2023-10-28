@@ -63,3 +63,15 @@ Where:
 
 ### Conclusion:
 Given that remote work ($R = 1$) generally allows access to a broader and more diverse talent pool compared to in-office work, we expect $\Delta T(R)>0$ and $\Delta D(R)>0$. Therefore, remote work enhances both the size ($T$) and diversity ($D$) of the talent pool, leading to a higher utility function ($U$) for the organization.
+
+
+## Equity
+We expect all collegues to feel deep ownership in their work. Therefore we commit to give equity to all collegues. We succeed or fail together. 
+
+Corrolary: Your collegues are also your partners. 
+
+
+## Anti-Harassment Policy
+Subscribe to Our Anti-Harassment Policy
+
+Nixtla is committed to providing a safe and respectful workplace for all employees. Please review and subscribe to our Anti-Harassment Policy to help us maintain a positive and inclusive environment. https://support.google.com/developergroups/answer/3340512?hl=en
