@@ -81,4 +81,12 @@ If you are not embarrassed by your old code, you’re not learning enough. If yo
 
 Good workd is anchored in first principles thinking.
 
-I strive to deliver high-quality work with efficiency. This means that I aim to produce work that not only meets the standards and expectations set but also does so in a timely manner. I understand that in our fast-paced industry, speed is of the essence. However, I also recognize that quality should never be compromised for speed. Therefore, I always seek to strike a balance between the two, ensuring that I deliver excellent work within the required timelines.
+I ship good code fast.
+
+Given our definition of sucess (Maximizing value for users, customers and collegues) a good proxy of our perfomance is the sum of the satisfaction metric of each of those groups in relation to the individauls in the company and the company itself. 
+
+Food for thought:
+This three metrics should be your guiding light:
+* User satisfaction: how are the internal or external users of your code perceive the value you create for them?
+* Customer satisfaction: how satisfied are the customers? 
+* Collegue satisfaction: how satisfied are your collegues with you?
