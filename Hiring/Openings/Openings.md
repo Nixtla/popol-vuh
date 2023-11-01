@@ -1,5 +1,4 @@
-# List of tasks to be done
-
+# Openings
 
 ## Goals to Achieve by the End of the Year
 
@@ -21,49 +20,6 @@
 ### 2. Enhance Efficiency through Tools
    - **Strategy:** Develop a comprehensive set of internal tools to automate as many processes as possible
 
-## Task Breakdown
-
-### 1. Sales, Growth, and Conversion
-
-   1. **Branding:** Strengthen our existing brand trust
-   2. **Social Media:** Maintain regular posting to engage with our community
-   3. **Lead Generation:** Increase our lead list from 2.5k to 10k
-   4. **Sales Funnels:** Create, nurture, and convert leads through effective sales funnels
-   5. **Conversion:** Transform leads into paying customers or active open-source users
-   6. **Customer Success:** Ensure customer satisfaction and optimize their experience with our product
-   7. **Customer Discovery:** Engage in ongoing conversations with customers to understand and meet their needs
-   8. **User Research:** Conduct research to gain insights into user needs and preferences
-   9. **A/B Testing:** Test assumptions and iterate on our products and services based on data-driven decisions
-
-### 2. Community and Open Source Engagement
-
-   1. **Developer Relations:** Build strong relationships with open-source users to understand and address their needs
-   2. **Slack Community:** Maintain an active presence and ensure rapid responses in our Slack channels
-   3. **Developer Engagement:** Organize and participate in community hours and other engagement activities
-   4. **User Discovery:** Proactively discover and address the needs of our user base
-
-### 3. Operations, HR, and Finance
-
-   1. **Culture Building:** Actively work on creating and maintaining a positive company culture
-   2. **Recruitment and Hiring:** Continuously search for and hire talented individuals to join our team
-   3. **Project Management:** Effectively manage and track progress across various projects
-   4. **Operations:** Ensure smooth day-to-day operations of the company
-   5. **Clerical Work:** Manage necessary administrative tasks efficiently
-
-### 4. Web Development
-
-   1. **Full Stack Development:** Engage in versatile development activities covering both front and back-end
-   2. **Front-End Development:** Focus on creating an intuitive and responsive user interface
-   3. **Back-End Development:** Develop and maintain the server-side logic and databases
-   4. **DevOps:** Ensure the optimization and stability of our development pipeline and infrastructure
-
-### 5. Engineering
-
-   1. **Applied Scientist Roles:**
-      - Experiment with new parameters
-      - Conduct various research experiments
-      - Support the Chief Researcher in their endeavors
-      - Run benchmarks to ensure the efficiency and effectiveness of our products
 
 ## Roles
 
@@ -71,18 +27,20 @@
    - **Responsibilities:** 
      - Oversee sales funnels, lead generation, and customer conversion.
      - Manage social media presence, content creation, and community engagement.
+     - Produce blog posts, explainer videos, marketing materials, and interpret a vision into succinct stories in various forms on various channels. The role could also involve being a ghostwriter who can transform a phone call with a founder into social media posts if they don’t have the time to post themselves.
      - Engage in customer discovery and user research to drive product improvements.
      - Build and maintain relationships with the open-source community and developers.
      - Organize developer engagement activities and ensure rapid responses in community channels.
+     - Co-design and co-implement GTM machine: that means, building a machine that can generate leads, nurture them, and convert them into customers using modern tools and techniques.
    - **Skills Required:** 
      - Sales and marketing expertise.
+     - This mid-level sales rep should have experience successfully closing deals for other companies and shouldn’t be so experienced that they’re hesitant to roll up their sleeves and do the dirty work.
      - Strong communication and community management skills.
      - Ability to analyze data and derive insights.
      - Social media management.
+     - Technical expertise with CRMs and marketing automation tools.
 
 ### 2. Operations and Culture Specialist
-
-
    - **Responsibilities:**
      - Develop and maintain metrics to track and grow the value that Nixtla provides to our users, customers and colleagues.
      - Maintain a close relationship with the open source team to help them grow.
@@ -97,7 +55,7 @@
      - Financial literacy.
      - Excellent communication and interpersonal skills.
 
-### 3. Full Stack Developer
+### 3. Founding engineer (Full Stack Developer)
    - **Responsibilities:** 
      - Handle both front-end and back-end development tasks.
      - Develop and maintain internal automation tools.
