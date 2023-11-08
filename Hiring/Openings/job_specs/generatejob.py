@@ -1,6 +1,5 @@
 import argparse
 import re
-from typing import List
 
 
 def load_definitions(file_paths):
@@ -92,9 +91,9 @@ def preprocess_markdown(definitions):
 DEFINITIONS_FILE_PATH = "../../../GeneralDefinitions.md"
 
 
-def main(files: List[str]):
+def main(file: str):
     # Always read the hardcoded definitions file in addition to those passed as arguments
-    definitions_files = [DEFINITIONS_FILE_PATH] + files
+    definitions_files = [DEFINITIONS_FILE_PATH, file]
     # Load definitions from all provided definition files and the hardcoded file
     definitions = load_definitions(definitions_files)
     # Preprocess with the loaded definitions and output the result
@@ -104,6 +103,6 @@ def main(files: List[str]):
 # Entry point of the script
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate Job Posting")
-    parser.add_argument("--files", nargs="+", help="List of files to load")
+    parser.add_argument("--file", help="File to load", required=True)
     args = parser.parse_args()
-    main(args.files)
+    main(args.file)
