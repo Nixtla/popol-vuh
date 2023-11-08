@@ -33,3 +33,9 @@ To use this script, follow these steps:
 ```bash
 python -m generatejob --files specs_ds.md growth_specs.md ...
 ````
+
+You can run the script for all the Job Definitions in the directory by using the following command:
+
+```bash
+for file in $(ls | grep specs | xargs); do python -m generatejob --file $file; done
+```
