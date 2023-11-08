@@ -1,18 +1,14 @@
 <!-- Follow this specs to define a Job
+{Def OutputFile}
 {Def Title}
-{Def Salary}
-{Def Equity}
 {Def Role}
 {Def Responsibilities}
 {Def Requirements}
 -->
+Def OutputFile: 
+../GrowthPerson.md
+
 Def Title: Growth Manager
-
-Def Salary:
-$100K - $180K
-
-Def Equity:
-0.1% - 0.5%
 
 Def Role:
 We are on the hunt for a dynamic Growth  Manager to take the helm at Nixtla's marketing and community initiatives. This role is tailored for an individual who is adept at converting strategy into action, excelling in sales, and fostering robust community relations. We are looking for someone who has a roll-up-your-sleeves attitude, is passionate about open-source software, and is eager to make a difference in the world.
