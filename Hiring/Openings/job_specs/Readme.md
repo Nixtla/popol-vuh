@@ -8,9 +8,8 @@ This script is a utility for generating job descriptions from markdown templates
 - Access to the terminal or command line interface
 - Definitions of the Job (Salary, Requierments, etc) with this format:
 ```
+{Def OutputFile}
 {Def Title}
-{Def Salary}
-{Def Equity}
 {Def Role}
 {Def Responsibilities}
 {Def Requirements}
@@ -32,5 +31,5 @@ To use this script, follow these steps:
 3. Run the script from the terminal with the following command structure:
 
 ```bash
-python generatejob.py [specs_ds.md] [DataScientist.md]
+python -m generatejob --files specs_ds.md growth_specs.md ...
 ````
