@@ -1,8 +1,6 @@
 <!-- Auto Generated file, do not modify -->
 # Founding Engineer (Full Stack Developer)
 
-**Salary**: $120K - $200K. | **Equity**: 0.5% - 2.00%.
-
 **Location**: Remote. | **Job Type**: Full-time.
 
 **Experience**: 4+ years.
