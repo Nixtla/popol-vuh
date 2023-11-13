@@ -49,6 +49,8 @@ def preprocess_markdown(definitions):
 
 **Location**: Remote. | **Job Type**: Full-time.
 
+**Salary**: Competitive.
+**Equity**: Competitive.
 **Experience**: 4+ years.
 
 ## About Nixtla
