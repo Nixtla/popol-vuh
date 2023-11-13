@@ -14,7 +14,7 @@ At Nixtla, we are committed to unlocking the potential of data, and extending th
 I put culture first.[I will never stop learning](#i-will-never-stop-learning). [I will build our business through maximizing value for our users, customers and colleagues](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues). I believe that Open Source is an extremely powerful idea. [I am motivated by the impact of my work.](#i-am-motivated-by-impact) [I will communicate a lot and effectively.](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company). I value the bond that connects us as a team. I support inclusion and diversity. I believe in treating each other, and the world, with compassion, kindness and respect. [I do a freaking good job.](#i-do-a-freaking-good-job)
 
 ## About the Role
-Nixtla is seeking a Founding Engineer with a specialization in Full Stack Development to join our core team. This position is crafted for a versatile problem-solver who is proficient in navigating both the front-end and back-end development landscapes.
+Nixtla is seeking a Founding Engineer specializing in Full Stack Development to join our core team. This position is crafted for a versatile problem-solver proficient in navigating both the front-end and back-end development landscapes.
 
 ## Key Responsibilities
 - Take charge of front-end and back-end development tasks, delivering cohesive and efficient software solutions.
@@ -26,9 +26,10 @@ Nixtla is seeking a Founding Engineer with a specialization in Full Stack Develo
 - A sound understanding of DevOps practices and tools, capable of enhancing our continuous integration and deployment pipelines.
 - Excellent problem-solving abilities, with a systematic approach to overcoming development and operational challenges.
 - Self-motivated with the ability to spearhead projects independently and collaborate effectively with cross-functional teams.
-- Strong fundamentals in systems programming
-- Familiarity and experience with cloud technologies
-Most importantly, we are looking for someone who works well in small, focused teams with fast iterations and lots of autonomy. If you are passionate, intellectually curious and excited to build the next generation of time series technologies, we want you on the team! 
+- Strong fundamentals in systems programming.
+- Familiarity and experience with cloud technologies.
+
+Most importantly, we seek someone who works well in small, focused teams with fast iterations and lots of autonomy. If you are passionate, intellectually curious, and excited to build the next generation of time series technologies, we want you on the team! 
 
 ## What We Offer
 In addition to offering a competitive salary and best-in-class equity, we want to ensure every team member has the tools they need to work to the best of their ability. To that end:

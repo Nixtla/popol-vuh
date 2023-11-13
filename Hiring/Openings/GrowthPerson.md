@@ -14,14 +14,14 @@ At Nixtla, we are committed to unlocking the potential of data, and extending th
 I put culture first.[I will never stop learning](#i-will-never-stop-learning). [I will build our business through maximizing value for our users, customers and colleagues](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues). I believe that Open Source is an extremely powerful idea. [I am motivated by the impact of my work.](#i-am-motivated-by-impact) [I will communicate a lot and effectively.](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company). I value the bond that connects us as a team. I support inclusion and diversity. I believe in treating each other, and the world, with compassion, kindness and respect. [I do a freaking good job.](#i-do-a-freaking-good-job)
 
 ## About the Role
-We are on the hunt for a dynamic Growth  Manager to take the helm at Nixtla's marketing and community initiatives. This role is tailored for an individual who is adept at converting strategy into action, excelling in sales, and fostering robust community relations. We are looking for someone who has a roll-up-your-sleeves attitude, is passionate about open-source software, and is eager to make a difference in the world.
+We are on the hunt for a dynamic Growth Manager to take the helm of Nixtla's marketing and community initiatives. This role is tailored for an individual adept at converting strategy into action, excelling in sales, and fostering robust community relations. We are looking for someone with a roll-up-your-sleeves attitude who is passionate about open-source software and is eager to make a difference in the world.
 
 ## Key Responsibilities
 - Steer our sales funnels, champion lead generation, and catalyze customer conversion to heighten our market presence.
 - Command our social media strategies, content curation, and community engagement to build a loyal follower base that leads to conversions.
 - Craft compelling blog posts, produce educational explainer videos, and develop impactful marketing collateral.
 - Embrace the role of a ghostwriter, adept at translating conversations with founders into engaging social media narratives.
-- Spearhead customer discovery and leverage user research to propel product enhancements and user satisfaction.
+- Lead customer discovery and leverage user research to propel product enhancements and user satisfaction.
 - Collaborate in designing and executing a Go-To-Market (GTM) machine that efficiently generates leads, nurtures prospects, and converts them into loyal customers.
 
 ## What We Look For
@@ -58,6 +58,19 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 ### We Are Committed to Community
 - Bi-Monthly group week sync-ups in SF or Mexico City.
 - Team happy hours.
+
+
+
+
+
+<!-- Follow this specs to define a Job
+{Def Title}
+{Def Salary}
+{Def Equity}
+{Def Role}
+{Def Responsibilities}
+{Def Requirements}
+-->
 
 ## About the Interview Process
 1. **30-minute phone screen**: This initial conversation helps us understand your background and interests. It's also an opportunity for you to learn more about the role, our company, and culture. Expect questions about your experience, why you're interested in this position, and your career goals.

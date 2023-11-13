@@ -14,20 +14,20 @@ At Nixtla, we are committed to unlocking the potential of data, and extending th
 I put culture first.[I will never stop learning](#i-will-never-stop-learning). [I will build our business through maximizing value for our users, customers and colleagues](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues). I believe that Open Source is an extremely powerful idea. [I am motivated by the impact of my work.](#i-am-motivated-by-impact) [I will communicate a lot and effectively.](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company). I value the bond that connects us as a team. I support inclusion and diversity. I believe in treating each other, and the world, with compassion, kindness and respect. [I do a freaking good job.](#i-do-a-freaking-good-job)
 
 ## About the Role
-We are seeking a highly motivated and innovative Data Scientist to join Nixtla. This role is perfect for a self-driven problem solver with a hacker's mindset, passionate about data, API development, and cutting-edge technologies.
+We are seeking a highly motivated and innovative Data Scientist to join Nixtla. This role is perfect for a self-driven problem solver with a hacker mindset, passionate about data, API development, and cutting-edge technologies.
 
 ## Key Responsibilities
 - Analyze API usage data to uncover insights, optimize performance, and drive strategic decisions.
 - Design, conduct, and productize A/B tests, playing a pivotal role in the evolution of our products.
-- Ensure the highest standards of API availability and performance through proactive testing and monitoring.
+- Ensure the highest API availability and performance standards through proactive testing and monitoring.
 - Manage and refine time-series data, ensuring its readiness for model training and analytical purposes.
-- Contribute to and improve our timegpt SDK, collaborating across multiple programming environments.
+- Contribute to and improve our TimeGPT SDK, collaborating across multiple programming environments.
 - Provide expert-level technical support to select users, fostering strong relationships and a deep understanding of their challenges and needs.
 
 ## What We Look For
 - Degree in Computer Science, Data Science, or a related field.
-- Proven experience with API development, data analysis, and experiments.
-- Very Strong programming skills, particularly in python.
+- Proven experience with API development, data analysis, and carrying out experiments.
+- Very Strong programming skills, particularly in Python.
 - Excellent problem-solving abilities and a creative approach to challenging technical issues.
 - Strong communication skills and a customer-focused attitude. 
 
@@ -61,14 +61,7 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 
 
 
-<!-- Follow this specs to define a Job
-{Def Title}
-{Def Salary}
-{Def Equity}
-{Def Role}
-{Def Responsibilities}
-{Def Requirements}
--->
+
 
 ## About the Interview Process
 1. **30-minute phone screen**: This initial conversation helps us understand your background and interests. It's also an opportunity for you to learn more about the role, our company, and culture. Expect questions about your experience, why you're interested in this position, and your career goals.
