@@ -1,10 +1,10 @@
 <!-- Auto Generated file, do not modify -->
 # Growth Manager
 
-**Salary**: $100K - $180K. | **Equity**: 0.1% - 0.5%.
-
 **Location**: Remote. | **Job Type**: Full-time.
 
+**Salary**: Competitive.
+**Equity**: Competitive.
 **Experience**: 4+ years.
 
 ## About Nixtla
@@ -58,6 +58,18 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 ### We Are Committed to Community
 - Bi-Monthly group week sync-ups in SF or Mexico City.
 - Team happy hours.
+
+
+
+
+
+<!-- Follow this specs to define a Job
+{Def OutputFile}
+{Def Title}
+{Def Role}
+{Def Responsibilities}
+{Def Requirements}
+-->
 
 ## About the Interview Process
 1. **30-minute phone screen**: This initial conversation helps us understand your background and interests. It's also an opportunity for you to learn more about the role, our company, and culture. Expect questions about your experience, why you're interested in this position, and your career goals.

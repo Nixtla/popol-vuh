@@ -1,10 +1,10 @@
 <!-- Auto Generated file, do not modify -->
 # Data Scientist
 
-**Salary**: $120K - $200K. | **Equity**: 0.50% - 1.00%.
-
 **Location**: Remote. | **Job Type**: Full-time.
 
+**Salary**: Competitive.
+**Equity**: Competitive.
 **Experience**: 4+ years.
 
 ## About Nixtla
@@ -62,9 +62,8 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 
 
 <!-- Follow this specs to define a Job
+{Def OutputFile}
 {Def Title}
-{Def Salary}
-{Def Equity}
 {Def Role}
 {Def Responsibilities}
 {Def Requirements}

@@ -1,16 +1,13 @@
 <!-- Follow this specs to define a Job
+{Def OutputFile}
 {Def Title}
-{Def Salary}
-{Def Equity}
 {Def Role}
 {Def Responsibilities}
 {Def Requirements}
 -->
+Def OutputFile: ../DataScientist.md
+
 Def Title: Data Scientist 
-
-Def Salary: $120K - $200K
-
-Def Equity: 0.50% - 1.00%
 
 Def Role: We are seeking a highly motivated and innovative Data Scientist to join Nixtla. This role is perfect for a self-driven problem solver with a hacker's mindset, passionate about data, API development, and cutting-edge technologies.
 
