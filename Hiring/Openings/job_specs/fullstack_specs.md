@@ -1,13 +1,11 @@
 # Founding Engineer (Full Stack Developer)
 
+Def OutputFile: 
+../FullStack.md
+
 Def Title:
 Founding Engineer (Full Stack Developer)
 
-Def Salary:
-$120K - $200K
-
-Def Equity:
-0.5% - 2.00%
 
 Def Role:
 Nixtla is seeking a Founding Engineer specializing in Full Stack Development to join our core team. This position is crafted for a versatile problem-solver proficient in navigating both the front-end and back-end development landscapes. 

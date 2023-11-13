@@ -1,13 +1,10 @@
-Applied Scientist
+# Applied Scientist
+
+Def OutputFile: 
+../AppliedScience.md
 
 Def Title:
 Applied Scientist
-
-Def Salary:
-$110K - $180K
-
-Def Equity:
-0.40% - 0.80%
 
 Def Role:
 Nixtla is seeking an Applied Scientist to bolster our research division. This role is ideal for an inquisitive individual driven by the quest for innovation and keen on transforming data into groundbreaking insights.

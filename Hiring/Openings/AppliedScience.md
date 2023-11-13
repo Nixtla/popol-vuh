@@ -1,10 +1,10 @@
 <!-- Auto Generated file, do not modify -->
 # Applied Scientist
 
-**Salary**: $110K - $180K. | **Equity**: 0.40% - 0.80%.
-
 **Location**: Remote. | **Job Type**: Full-time.
 
+**Salary**: Competitive.
+**Equity**: Competitive.
 **Experience**: 4+ years.
 
 ## About Nixtla
@@ -60,7 +60,7 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 
 
 
-Applied Scientist
+# Applied Scientist
 
 ## About the Interview Process
 1. **30-minute phone screen**: This initial conversation helps us understand your background and interests. It's also an opportunity for you to learn more about the role, our company, and culture. Expect questions about your experience, why you're interested in this position, and your career goals.

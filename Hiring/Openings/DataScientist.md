@@ -1,10 +1,10 @@
 <!-- Auto Generated file, do not modify -->
 # Data Scientist
 
-**Salary**: $120K - $200K. | **Equity**: 0.50% - 1.00%.
-
 **Location**: Remote. | **Job Type**: Full-time.
 
+**Salary**: Competitive.
+**Equity**: Competitive.
 **Experience**: 4+ years.
 
 ## About Nixtla
@@ -56,11 +56,6 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 ### We Are Committed to Community
 - Bi-Monthly group week sync-ups in SF or Mexico City.
 - Team happy hours.
-
-
-
-
-
 
 
 ## About the Interview Process
