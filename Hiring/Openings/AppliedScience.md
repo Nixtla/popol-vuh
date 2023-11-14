@@ -14,16 +14,19 @@ At Nixtla, we are committed to unlocking the potential of data, and extending th
 I put culture first.[I will never stop learning](#i-will-never-stop-learning). [I will build our business through maximizing value for our users, customers and colleagues](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues). I believe that Open Source is an extremely powerful idea. [I am motivated by the impact of my work.](#i-am-motivated-by-impact) [I will communicate a lot and effectively.](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company). I value the bond that connects us as a team. I support inclusion and diversity. I believe in treating each other, and the world, with compassion, kindness and respect. [I do a freaking good job.](#i-do-a-freaking-good-job)
 
 ## About the Role
-Nixtla is seeking an Applied Scientist to bolster our research division. This role is ideal for a deeply inquisitive individual, driven by the quest for innovation and keen on transforming data into groundbreaking insights.
+Nixtla is seeking an Applied Scientist to bolster our research division. This role is ideal for an inquisitive individual driven by the quest for innovation and keen on transforming data into groundbreaking insights.
 
 ## Key Responsibilities
-- Drive experiments, support overarching research initiatives, and conduct critical benchmarks.
+- Drive experiments, support research initiatives, and conduct critical benchmarks.
 - Analyze experimental data, distill insights, and articulate findings to guide strategic decisions.
-- Assist the Chief Researcher in a diverse array of research endeavors, contributing to the scientific community's knowledge base.
+- Implement algorithms to improve the performance of existing products and enhance libraries.
+- Assist the Chief Researcher in diverse research endeavors, contributing to the scientific community's knowledge base.
 
 ## What We Look For
-- Robust research and analytical capabilities, with a history of contributing to scientific inquiries and data analysis.
-- Experience in harnessing data to extract meaningful insights and foster evidence-based conclusions.
+- Degree in Computer Science, Machine Learning, Data Science, or a related field. Master's degree preferred.
+- Strong programming skills, particularly in Python.
+- Experience implementing deep learning methods and experiments. Experience using PyTorch or TensorFlow preferred.
+- Robust research and analytical capabilities, with a record of contributing to scientific inquiries.
 - Clear and effective communication skills, with the ability to convey complex research findings to a broad audience.
 - A propensity for innovation and critical thought, with a passion for unearthing novel solutions to complex problems. 
 

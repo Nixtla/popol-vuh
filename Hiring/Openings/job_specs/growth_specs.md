@@ -11,14 +11,14 @@ Def OutputFile:
 Def Title: Growth Manager
 
 Def Role:
-We are on the hunt for a dynamic Growth  Manager to take the helm at Nixtla's marketing and community initiatives. This role is tailored for an individual who is adept at converting strategy into action, excelling in sales, and fostering robust community relations. We are looking for someone who has a roll-up-your-sleeves attitude, is passionate about open-source software, and is eager to make a difference in the world.
+We are on the hunt for a dynamic Growth Manager to take the helm of Nixtla's marketing and community initiatives. This role is tailored for an individual adept at converting strategy into action, excelling in sales, and fostering robust community relations. We are looking for someone with a roll-up-your-sleeves attitude who is passionate about open-source software and is eager to make a difference in the world.
 
 Def Responsibilities:
 - Steer our sales funnels, champion lead generation, and catalyze customer conversion to heighten our market presence.
 - Command our social media strategies, content curation, and community engagement to build a loyal follower base that leads to conversions.
 - Craft compelling blog posts, produce educational explainer videos, and develop impactful marketing collateral.
 - Embrace the role of a ghostwriter, adept at translating conversations with founders into engaging social media narratives.
-- Spearhead customer discovery and leverage user research to propel product enhancements and user satisfaction.
+- Lead customer discovery and leverage user research to propel product enhancements and user satisfaction.
 - Collaborate in designing and executing a Go-To-Market (GTM) machine that efficiently generates leads, nurtures prospects, and converts them into loyal customers.
 
 Def Requirements:
