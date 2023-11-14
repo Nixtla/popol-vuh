@@ -10,7 +10,7 @@ You are expected to contribute. This system is expected to crash. Raise issues a
 
 Thesis: a great culture is a culture that is constantly being improved and is in constand flux.
 
-Corrolary: the activity of this repos reflects the engagement of the community and the health of the company.
+Corollary: the activity of this repos reflects the engagement of the community and the health of the company.
 
 
 
@@ -37,7 +37,7 @@ The first and most important line of the creed means that you’re never finishe
 There are three groups of people that we care most about: users, customers, collegues and investors. We want to create the most possible value for them. We understand this as a max-min  Rawlsian  welfare function. We believe that by optimizing that wellnes function we will ultimately reach financial success and personal satisfaction. 
 
 
-We define success as maximazing the wellfare of the groups that consitute Nixtla. We want to create the most possible welfare for our community of customers, users, collegues and investors. We understand this as a max-min  Rawlsian social welfare function.  
+We define success as maximazing the wellfare of the groups that consitute Nixtla. We want to create the most possible welfare for our community of customers, users, collegues and investors. We understand this as a max-min Rawlsian social welfare function.  
 
 Wellness is: 
 
@@ -45,7 +45,7 @@ $$
 \max_{x\in X}\min_{i\in I}u_{i}(x)
 $$
 
-Where $X$ be a set of possible 'states of the world' or 'alternatives states of our company'. Nixtla wishes to choose a single state from $X$.  
+Where $X$ be a set of possible 'states of the world' or 'alternatives states of our company'. Nixtla wishes to choose a single state from $X$ that maximizes the wellness function.
 
 Let $I$ be a finite set, representing a collection of individuals.  For each $i \in I$, let $u_i:X\longrightarrow\mathbb{R}$ be a utility function, describing the amount of happiness or welness an individual $i$ derives from each possible state.
 

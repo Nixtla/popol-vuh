@@ -2,33 +2,26 @@
 
 ## Diversity and Inclusion Index
 
-To solidify our commitment to fostering a diverse and inclusive work environment, we have established the Diversity and Inclusion Index (D&I Index). This tool is designed to quantitatively assess our progress in promoting diversity and ensuring the representation of underrepresented groups within our organization.
+To solidify our commitment to fostering a diverse and inclusive work environment, we have established the Diversity and Inclusion Index (D&I Index). This Index is designed to quantitatively assess our progress in promoting diversity and ensuring the representation of underrepresented groups within our organization.
 
 ### Formula:
 $$
-\text{DI Index} = \left( \frac{\sum_{i=1}^{n} E_{i,\text{underrep}}}{\sum_{i=1}^{m} E_{i,\text{total}}} \right) \times 100 > 50
+\text{DI Index} = \frac {\sum_{i=1}^{N} \mathbf{1} \{E_i \in \cup_{j=1}^M A_j\}}{N}  > 0.5
 $$
 
 ### Target:
 
-Our goal is to maintain a D&I Index greater than 50, reflecting a workforce where over 50% of our employees come from underrepresented groups.
+Our goal is to maintain a D&I Index greater than 0.5, reflecting a workforce where over 50% of our employees come from underrepresented groups.
 
 ### Parameters:
 
-- **Underrepresented Groups**: This includes but is not limited to individuals from varying ethnic backgrounds, genders, age groups, abilities, and other demographic categories that are underrepresented in the workforce.
-- **Total Number of Employees**: This represents the total headcount of our organization.
-- $\sum_{i=1}^{n} E_{i,\text{underrep}}$: The sum of employees from underrepresented groups across all relevant categories.
-- $\sum_{i=1}^{m} E_{i,\text{total}}$: The total number of employees across all categories in the organization.
-- $n$: The total number of categories for underrepresented groups.
-- $m$: The total number of categories for total employees.
-- $E_{i,\text{underrep}}$: The number of employees in the $i$-th category of underrepresented groups.
-- $E_{i,\text{total}}$: The number of employees in the $i$-th category of total employees.
+- **Underrepresented Groups (A)**: This includes but is not limited to individuals from varying ethnic backgrounds, genders, age groups, abilities, and other demographic categories that are underrepresented in the workforce.
+- $N$: total headcount of our organization.
+- $M$: the total number of underrepresented groups.
 
 ### Commitment:
 
 We are unwavering in our dedication to achieving and sustaining this target, recognizing that a diverse and inclusive workforce is pivotal to fostering innovation, creativity, and excellence. We will regularly assess our D&I Index, taking proactive steps to address any disparities and ensure that our workplace is welcoming, respectful, and supportive for all.
-
-(Note to self: This could mean that 50% is represented by a single group, or that 50% is represented by a combination of undereprented groups. Concretly, a bunch of men. This is probably not what we want. We want to have a diverse team. But we still don't really know what diversity means. We need to think about this.)
 
 
 ## Mathematical Expression for the Utility of Remote Work in Talent Acquisition
