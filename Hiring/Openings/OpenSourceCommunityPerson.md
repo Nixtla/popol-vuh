@@ -1,5 +1,5 @@
 <!-- Auto Generated file, do not modify -->
-# Growth Manager
+# Open Source Community Manager
 
 **Location**: Remote. | **Job Type**: Full-time.
 
@@ -14,23 +14,21 @@ At Nixtla, we are committed to unlocking the potential of data, and extending th
 I put culture first.[I will never stop learning](#i-will-never-stop-learning). [I will build our business through maximizing value for our users, customers and colleagues](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues). I believe that Open Source is an extremely powerful idea. [I am motivated by the impact of my work.](#i-am-motivated-by-impact) [I will communicate a lot and effectively.](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company). I value the bond that connects us as a team. I support inclusion and diversity. I believe in treating each other, and the world, with compassion, kindness and respect. [I do a freaking good job.](#i-do-a-freaking-good-job)
 
 ## About the Role
-We are on the hunt for a dynamic Growth Manager to take the helm of Nixtla's marketing and community initiatives. This role is tailored for an individual adept at converting strategy into action, excelling in sales, and fostering robust community relations. We are looking for someone with a roll-up-your-sleeves attitude who is passionate about open-source software and is eager to make a difference in the world.
+We are looking for a dynamic, senior-level Open Source Community Manager. This role is tailored for an individual who is passionate about open source and is eager to make a difference in the time series forecasting field leading efforts to manage open source communication, engagement, and development.
 
 ## Key Responsibilities
-- Steer our sales funnels, champion lead generation, and catalyze customer conversion to heighten our market presence.
-- Lead customer discovery and leverage user research to propel product enhancements and user satisfaction.
-- Collaborate in designing and executing a Go-To-Market (GTM) machine that efficiently generates leads, nurtures prospects, and converts them into loyal customers.
-- Drive the growth of Nixtla's social media and web platform.
-- Lead the growth of the `TimeGPT` product.
+- Lead and manage the growth of our open source community.
+- Manage backlog of open source contributions.
+- Command our social media strategies, content curation, and community engagement to build a loyal follower base that leads to conversions.
+- Craft compelling blog posts, produce educational explainer videos, and develop impactful marketing collateral.
+- Embrace the role of a ghostwriter, adept at translating conversations with founders into engaging social media narratives.
 
 ## What We Look For
-- Demonstrable expertise in sales and marketing, with a proven track record of closing deals and driving growth.
-- Mid-level sales experience with the zeal to engage in hands-on execution of tasks.
-- Outstanding communication skills.
-- Analytical acumen to translate data into actionable growth strategies.
+- Open Source experience with the enthusiasm to engage in hands-on execution of tasks.
 - Proficiency in managing social media platforms and creating engaging online content.
-- Technical fluency in Customer Relationship Management (CRM) and marketing automation tools.
-- Bonus points: technical background in software development, data science, or related fields. 
+- Experience managing open source projects or/and community.
+- Technical background in software development, data science, or related fields.
+- Knowledge of the Nixtla's open source community. 
 
 ## What We Offer
 In addition to offering a competitive salary and best-in-class equity, we want to ensure every team member has the tools they need to work to the best of their ability. To that end:
@@ -57,18 +55,6 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 ### We Are Committed to Community
 - Bi-Monthly group week sync-ups in SF or Mexico City.
 - Team happy hours.
-
-
-
-
-
-<!-- Follow this specs to define a Job
-{Def OutputFile}
-{Def Title}
-{Def Role}
-{Def Responsibilities}
-{Def Requirements}
--->
 
 ## About the Interview Process
 1. **30-minute phone screen**: This initial conversation helps us understand your background and interests. It's also an opportunity for you to learn more about the role, our company, and culture. Expect questions about your experience, why you're interested in this position, and your career goals.
