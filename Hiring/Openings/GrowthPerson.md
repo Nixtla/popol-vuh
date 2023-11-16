@@ -18,11 +18,10 @@ We are on the hunt for a dynamic Growth Manager to take the helm of Nixtla's mar
 
 ## Key Responsibilities
 - Steer our sales funnels, champion lead generation, and catalyze customer conversion to heighten our market presence.
-- Command our social media strategies, content curation, and community engagement to build a loyal follower base that leads to conversions.
-- Craft compelling blog posts, produce educational explainer videos, and develop impactful marketing collateral.
-- Embrace the role of a ghostwriter, adept at translating conversations with founders into engaging social media narratives.
 - Lead customer discovery and leverage user research to propel product enhancements and user satisfaction.
 - Collaborate in designing and executing a Go-To-Market (GTM) machine that efficiently generates leads, nurtures prospects, and converts them into loyal customers.
+- Drive the growth of Nixtla's social media and web platform.
+- Lead the growth of the `TimeGPT` product.
 
 ## What We Look For
 - Demonstrable expertise in sales and marketing, with a proven track record of closing deals and driving growth.
@@ -59,6 +58,17 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 - Bi-Monthly group week sync-ups in SF or Mexico City.
 - Team happy hours.
 
+
+
+
+
+<!-- Follow this specs to define a Job
+{Def OutputFile}
+{Def Title}
+{Def Role}
+{Def Responsibilities}
+{Def Requirements}
+-->
 
 ## About the Interview Process
 1. **30-minute phone screen**: This initial conversation helps us understand your background and interests. It's also an opportunity for you to learn more about the role, our company, and culture. Expect questions about your experience, why you're interested in this position, and your career goals.

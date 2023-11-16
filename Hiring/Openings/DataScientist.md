@@ -58,6 +58,17 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 - Team happy hours.
 
 
+
+
+
+<!-- Follow this specs to define a Job
+{Def OutputFile}
+{Def Title}
+{Def Role}
+{Def Responsibilities}
+{Def Requirements}
+-->
+
 ## About the Interview Process
 1. **30-minute phone screen**: This initial conversation helps us understand your background and interests. It's also an opportunity for you to learn more about the role, our company, and culture. Expect questions about your experience, why you're interested in this position, and your career goals.
 
