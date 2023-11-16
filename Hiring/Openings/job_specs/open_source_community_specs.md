@@ -16,6 +16,6 @@ Def Responsibilities:
 Def Requirements:
 - Open Source experience with the enthusiasm to engage in hands-on execution of tasks.
 - Proficiency in managing social media platforms and creating engaging online content.
-- Technical fluency in Customer Relationship Management (CRM) and marketing automation tools.
 - Experience managing open source projects or/and community.
-- Bonus points: technical background in software development, data science, or related fields. Knowledge of the Nixtla's open source community.
+- Technical background in software development, data science, or related fields. 
+- Knowledge of the Nixtla's open source community.
