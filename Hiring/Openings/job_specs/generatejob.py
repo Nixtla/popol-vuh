@@ -65,7 +65,7 @@ def preprocess_markdown(definitions):
 ## Key Responsibilities
 {{Def Responsibilities}}
 
-## What We Look For
+## What You Bring To The Team
 {{Def Requirements}} 
 
 ## What We Offer
