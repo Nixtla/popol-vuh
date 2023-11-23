@@ -21,7 +21,7 @@ Nixtla is seeking a Founding Engineer specializing in Full Stack Development to 
 - Design, develop, and manage internal automation tools to streamline development and operational processes. (We love CI/CD)
 - Provide support in ensuring the stability and performance of both development and production environments. (We love monitoring)
 
-## What We Look For
+## What You Bring To The Team
 - Proven proficiency in full-stack development, with a portfolio of successful projects.
 - A sound understanding of DevOps practices and tools, capable of enhancing our continuous integration and deployment pipelines.
 - Excellent problem-solving abilities, with a systematic approach to overcoming development and operational challenges.
@@ -47,15 +47,15 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 - Fast-paced work environment geared towards professional growth.
 - Opportunities to move roles within the organization to learn new skills and contribute in different areas.
 
-### We Are Commited to Remote Work
+### We Are Committed to Remote Work
 - A dedicated budget to help you create a comfortable and productive workspace.
 - Access to leading virtual collaboration tools to stay connected with the team.
 - Ensuring consistent communication and support through regular one-on-one and team check-ins.
 - Activities and virtual events that foster team spirit and camaraderie despite the physical distance.
 
-### We Are Committed to Community
+### We Are Committed to Our Community
 - Bi-Monthly group week sync-ups in SF or Mexico City.
-- Team happy hours.
+- Team Social Gatherings.
 
 
 
@@ -72,5 +72,5 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 
 We can move very fast.
 
-## Diversity Encouraged
+## We Are Committed to Building a Diverse Team
 *At our company, we wholeheartedly embrace diversity and are committed to creating an inclusive environment for all employees. We are proud to be an equal opportunity employer. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We recognize the value that diverse perspectives bring to our team and celebrate the uniqueness of each member.*    

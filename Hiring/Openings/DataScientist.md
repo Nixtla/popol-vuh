@@ -24,7 +24,7 @@ We are seeking a highly motivated and innovative Data Scientist to join Nixtla. 
 - Contribute to and improve our TimeGPT SDK, collaborating across multiple programming environments.
 - Provide expert-level technical support to select users, fostering strong relationships and a deep understanding of their challenges and needs.
 
-## What We Look For
+## What You Bring To The Team
 - Degree in Computer Science, Data Science, or a related field.
 - Proven experience with API development, data analysis, and carrying out experiments.
 - Very Strong programming skills, particularly in Python.
@@ -47,15 +47,15 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 - Fast-paced work environment geared towards professional growth.
 - Opportunities to move roles within the organization to learn new skills and contribute in different areas.
 
-### We Are Commited to Remote Work
+### We Are Committed to Remote Work
 - A dedicated budget to help you create a comfortable and productive workspace.
 - Access to leading virtual collaboration tools to stay connected with the team.
 - Ensuring consistent communication and support through regular one-on-one and team check-ins.
 - Activities and virtual events that foster team spirit and camaraderie despite the physical distance.
 
-### We Are Committed to Community
+### We Are Committed to Our Community
 - Bi-Monthly group week sync-ups in SF or Mexico City.
-- Team happy hours.
+- Team Social Gatherings.
 
 
 
@@ -78,5 +78,5 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 
 We can move very fast.
 
-## Diversity Encouraged
+## We Are Committed to Building a Diverse Team
 *At our company, we wholeheartedly embrace diversity and are committed to creating an inclusive environment for all employees. We are proud to be an equal opportunity employer. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We recognize the value that diverse perspectives bring to our team and celebrate the uniqueness of each member.*    

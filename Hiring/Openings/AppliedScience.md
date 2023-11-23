@@ -22,7 +22,7 @@ Nixtla is seeking an Applied Scientist to bolster our research division. This ro
 - Implement algorithms to improve the performance of existing products and enhance libraries.
 - Assist the Chief Researcher in diverse research endeavors, contributing to the scientific community's knowledge base.
 
-## What We Look For
+## What You Bring To The Team
 - Degree in Computer Science, Machine Learning, Data Science, or a related field. Master's degree preferred.
 - Strong programming skills, particularly in Python.
 - Experience implementing deep learning methods and experiments. Experience using PyTorch or TensorFlow preferred.
@@ -46,15 +46,15 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 - Fast-paced work environment geared towards professional growth.
 - Opportunities to move roles within the organization to learn new skills and contribute in different areas.
 
-### We Are Commited to Remote Work
+### We Are Committed to Remote Work
 - A dedicated budget to help you create a comfortable and productive workspace.
 - Access to leading virtual collaboration tools to stay connected with the team.
 - Ensuring consistent communication and support through regular one-on-one and team check-ins.
 - Activities and virtual events that foster team spirit and camaraderie despite the physical distance.
 
-### We Are Committed to Community
+### We Are Committed to Our Community
 - Bi-Monthly group week sync-ups in SF or Mexico City.
-- Team happy hours.
+- Team Social Gatherings.
 
 
 
@@ -71,5 +71,5 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 
 We can move very fast.
 
-## Diversity Encouraged
+## We Are Committed to Building a Diverse Team
 *At our company, we wholeheartedly embrace diversity and are committed to creating an inclusive environment for all employees. We are proud to be an equal opportunity employer. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We recognize the value that diverse perspectives bring to our team and celebrate the uniqueness of each member.*    
