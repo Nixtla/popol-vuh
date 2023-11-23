@@ -26,7 +26,7 @@ To use this script, follow these steps:
 
 1. Prepare your Job Definitions in a markdown file.
 
-2. Place your template markdown file in the directory of the script or provide the path to it. 
+2. Place your template markdown file in the directory of the script or provide the path to it. (eg .../Hiring/Openings/job_specs)
 
 3. Run the script from the terminal with the following command structure:
 
