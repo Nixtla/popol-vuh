@@ -31,13 +31,13 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 - Fast-paced work environment geared towards professional growth.
 - Opportunities to move roles within the organization to learn new skills and contribute in different areas.
 
-### We Are Commited to Remote Work
+### We Are Committed to Remote Work
 - A dedicated budget to help you create a comfortable and productive workspace.
 - Access to leading virtual collaboration tools to stay connected with the team.
 - Ensuring consistent communication and support through regular one-on-one and team check-ins.
 - Activities and virtual events that foster team spirit and camaraderie despite the physical distance.
 
-### We Are Committed to Community
+### We Are Committed to Our Community
 - Bi-Monthly group week sync-ups in SF or Mexico City.
 - Team happy hours.
 
