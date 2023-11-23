@@ -39,7 +39,7 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 
 ### We Are Committed to Community
 - Bi-Monthly group week sync-ups in SF or Mexico City.
-- Team happy hours.
+- Team Social Gatherings.
 
 
 
