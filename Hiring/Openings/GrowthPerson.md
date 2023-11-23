@@ -23,7 +23,7 @@ We are on the hunt for a dynamic Growth Manager to take the helm of Nixtla's mar
 - Drive the growth of Nixtla's social media and web platform.
 - Lead the growth of the `TimeGPT` product.
 
-## What We Look For
+## What You Bring To The Team
 - Demonstrable expertise in sales and marketing, with a proven track record of closing deals and driving growth.
 - Mid-level sales experience with the zeal to engage in hands-on execution of tasks.
 - Outstanding communication skills.
@@ -48,15 +48,15 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 - Fast-paced work environment geared towards professional growth.
 - Opportunities to move roles within the organization to learn new skills and contribute in different areas.
 
-### We Are Commited to Remote Work
+### We Are Committed to Remote Work
 - A dedicated budget to help you create a comfortable and productive workspace.
 - Access to leading virtual collaboration tools to stay connected with the team.
 - Ensuring consistent communication and support through regular one-on-one and team check-ins.
 - Activities and virtual events that foster team spirit and camaraderie despite the physical distance.
 
-### We Are Committed to Community
+### We Are Committed to Our Community
 - Bi-Monthly group week sync-ups in SF or Mexico City.
-- Team happy hours.
+- Team Social Gatherings.
 
 
 
@@ -79,5 +79,5 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 
 We can move very fast.
 
-## Diversity Encouraged
+## We Are Committed to Building a Diverse Team
 *At our company, we wholeheartedly embrace diversity and are committed to creating an inclusive environment for all employees. We are proud to be an equal opportunity employer. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We recognize the value that diverse perspectives bring to our team and celebrate the uniqueness of each member.*    
