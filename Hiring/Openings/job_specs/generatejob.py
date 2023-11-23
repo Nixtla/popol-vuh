@@ -74,7 +74,7 @@ def preprocess_markdown(definitions):
 ## About the Interview Process
 {{Def Interview}}
 
-## Diversity Encouraged
+## We Are Committed to Building a Diverse Team
 {{Def Diversity}}\
     """
 
