@@ -7,11 +7,13 @@ Def Diversity: *At our company, we wholeheartedly embrace diversity and are comm
 
 
 Def Interview:
-1. **30-minute phone screen**: This initial conversation helps us understand your background and interests. It's also an opportunity for you to learn more about the role, our company, and culture. Expect questions about your experience, why you're interested in this position, and your career goals.
+1. **(20-minute) Introduction Stage**: This initial conversation helps us understand your background and interests. It's also an opportunity for you to learn more about the rol and our company. Expect questions about your experience, why you're interested in this position, and your career goals.
 
-2. **Paid Technical Mini Project (2 days)**: You'll work on a small, standalone project representative of tasks you might encounter in the role. It's designed to assess your technical skills in a real-world context, rather than abstract problem-solving. This project will be compensated, and you'll have two days to complete it.
+2. **(30-minute) Cultural fit**: This is a chance for you to meet with the team to learn more about our culture and values. We'll also ask you to share your thoughts on our culture and values to ensure we're a good fit for each other. 
 
-3. **Technical interview panel with the team (1 hour)**: You'll meet with several team members for a deep dive into your technical knowledge and problem-solving approach. To prepare, review the key skills listed in the job description and be ready to discuss your project work and past experiences in detail.
+3. **(Async) Paid Technical Mini Project**: You'll work on a small, standalone project representative of tasks you might encounter in the role. It's designed to assess your technical skills in a real-world context, rather than abstract problem-solving. This project will be compensated, and you'll have two days to complete it.
+
+3. **(1-hour) Technical interview panel with the team**: You'll meet with several team members for a deep dive into your technical knowledge and problem-solving approach. To prepare, review the key skills listed in the job description and be ready to discuss your project work and past experiences in detail.
 
 We can move very fast. 
 
