@@ -75,7 +75,10 @@ def preprocess_markdown(definitions):
 {{Def Interview}}
 
 ## We Are Committed to Building a Diverse Team
-{{Def Diversity}}\
+{{Def Diversity}}
+
+## How to Apply
+{{Def Apply}}\
     """
 
     # Replace placeholders in the template with actual definitions

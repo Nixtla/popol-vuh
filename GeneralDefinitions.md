@@ -4,8 +4,6 @@ Def Nixtla_Short: At Nixtla, we are committed to unlocking the potential of data
 
 Def Diversity: *At our company, we wholeheartedly embrace diversity and are committed to creating an inclusive environment for all employees. We are proud to be an equal opportunity employer. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We recognize the value that diverse perspectives bring to our team and celebrate the uniqueness of each member.*
 
-
-
 Def Interview:
 1. **(20-minute) Introduction Stage**: This initial conversation helps us understand your background and interests. It's also an opportunity for you to learn more about the rol and our company. Expect questions about your experience, why you're interested in this position, and your career goals.
 
@@ -16,6 +14,8 @@ Def Interview:
 3. **(1-hour) Technical interview panel with the team**: You'll meet with several team members for a deep dive into your technical knowledge and problem-solving approach. To prepare, review the key skills listed in the job description and be ready to discuss your project work and past experiences in detail.
 
 We can move very fast. 
+
+Def Apply: To apply for this role, please send a cover email and your resume to *ops@nixtla.io*
 
 Def Benefits:
 In addition to offering a competitive salary and best-in-class equity, we want to ensure every team member has the tools they need to work to the best of their ability. To that end:
@@ -42,8 +42,3 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 ### We Are Committed to Our Community
 - Bi-Monthly group week sync-ups in SF or Mexico City.
 - Team Social Gatherings.
-
-
-
-
-
