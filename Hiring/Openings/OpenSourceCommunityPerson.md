@@ -68,4 +68,7 @@ In addition to offering a competitive salary and best-in-class equity, we want t
 We can move very fast.
 
 ## We Are Committed to Building a Diverse Team
-*At our company, we wholeheartedly embrace diversity and are committed to creating an inclusive environment for all employees. We are proud to be an equal opportunity employer. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We recognize the value that diverse perspectives bring to our team and celebrate the uniqueness of each member.*    
+*At our company, we wholeheartedly embrace diversity and are committed to creating an inclusive environment for all employees. We are proud to be an equal opportunity employer. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We recognize the value that diverse perspectives bring to our team and celebrate the uniqueness of each member.*
+
+## How to Apply
+To apply for this role, please send a cover email and your resume to *ops@nixtla.io*    
