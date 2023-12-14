@@ -10,7 +10,7 @@ You are expected to contribute. This system is expected to crash. Raise issues a
 
 Thesis: a great culture is a culture that is constantly being improved and is in constand flux.
 
-Corollary: the activity of this repos reflects the engagement of the community and the health of the company.
+Corollary: the activity of these repos reflects the engagement of the community and the health of the company.
 
 
 
@@ -34,28 +34,22 @@ The first and most important line of the creed means that you’re never finishe
 
 ### [I will build our business  through creating the most value for our community of users, customers and collegues.](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-colleagues)
 
-There are three groups of people that we care most about: users, customers, collegues and investors. We want to create the most possible value for them. We understand this as a max-min  Rawlsian  welfare function. We believe that by optimizing that wellnes function we will ultimately reach financial success and personal satisfaction. 
+There are four groups of people that we care most about: users, customers, collegues and investors. We believe that by optimizing the wellness of the first three groups (users, customers and colleagues) we will maximize our business value as well, which means optimizing the wellness of our investors.
 
 
-We define success as maximazing the wellfare of the groups that consitute Nixtla. We want to create the most possible welfare for our community of customers, users, collegues and investors. We understand this as a max-min Rawlsian social welfare function.  
-
-Wellness is: 
+We define success as maximizing the wellness of the groups that consitute Nixtla. We understand this as a max-min Rawlsian social welfare function (called the 'egalitarian rule'), where we want to select an element $x$ which maximizes the 'minimum utility', that is, it solves the following optimization problem:
 
 $$
 \max_{x\in X}\min_{i\in I}u_{i}(x)
 $$
 
-Where $X$ be a set of possible 'states of the world' or 'alternatives states of our company'. Nixtla wishes to choose a single state from $X$ that maximizes the wellness function.
-
-Let $I$ be a finite set, representing a collection of individuals.  For each $i \in I$, let $u_i:X\longrightarrow\mathbb{R}$ be a utility function, describing the amount of happiness or welness an individual $i$ derives from each possible state.
-
-A social choice theory|social choice rule is a mechanism which uses the data $(u_i)_{i \in I}$ to select some element(s) from $X$ which are `best' for society. The question of what 'best' means is the basic question of social choice theory. The 'egalitarian rule' selects an element $x \in X$ which maximizes the 'minimum utility', that is, it solves the optimization problem above. 
+Where $X$ is a set of possible 'states of the world' or 'alternatives states of our company', $I$ is a finite set representing a collection of individuals and $u_i:X\longrightarrow\mathbb{R}$ is the utility function that describes the amount of happiness or wellness an individual $i$ derives from each possible state. Nixtla wishes to choose a single state $x$ from $X$ that optimizes the wellness function.
 
 
 ### [I will never pass up an opportunity to help out a colleague](#i-will-never-pass-up-an-opportunity-to-help-out-a-colleague)
 It doesn’t matter who you report to or what division you’re in. If you’re an Nixtlican, every other Nixtlican is your colleague. A culture where we always try to help one another is the one we all want to work in.
 
-Taken more broadly, `colleague` is all those in the same role in the world. Can you write a blog post or give a talk that will help everyone who is exposed to it?
+Taken more broadly, *colleagues* are all those in the same role in the world. Can you write a blog post or give a talk that will help everyone who is exposed to it?
 
 Part of helping someone is communicating clearly. This doesn’t mean saying “yes” to every request. The distance between saying you’ll help someone and actually helping them is a gap often created with the best intentions. But when we don’t bridge that gap, accountability suffers throughout the organization. Our desire to help might make it tempting to tell someone we’ll do something, but we should always be impeccable with our word. 
 
@@ -71,14 +65,14 @@ The reference to oxygen is not accidental: too much oxygen can be fatal as well.
 
 ### [I am motivated by impact](#i-am-motivated-by-impact)
 
-`We don’t make software to make money, we make money to make more software.`
+**We don’t make software to make money, we make money to make more software.**
 
 However, we also like nice things and money is totally fine, and it’s completely necessary in our current socioeconomic system for everything we want to accomplish as a company — and for many things individually. 
 No one should feel embarrassed about discussing compensation with HR. But we work for more than just a paycheck.
 
 ### [I do a freaking good job.](#i-do-a-freaking-good-job)
 
-Doing a freaking good job means neccesarly embracing failure in your work and other's work. Feel free to experiment and fail. Break stuff... but not the same stuff. And also, please fix it, or at least raise an issue.
+Doing a freaking good job means necessarily embracing failure in your work and other's work. Feel free to experiment and fail. Break stuff... but not the same stuff. And also, please fix it, or at least raise an issue.
 
 We understand quality of our work with the following criteria:
 * Ownership
@@ -86,7 +80,7 @@ We understand quality of our work with the following criteria:
 * Tested
 * Documented
 
-If you are not embarrassed by your old code, you’re not learning enough. If you’re not embarrassed when you ship your first version, you waited too long. =
+If you are not embarrassed by your old code, you’re not learning enough. If you’re not embarrassed when you ship your first version, you waited too long.
 
 Good workd is anchored in first principles thinking.
 
@@ -94,10 +88,10 @@ I ship good code fast.
 
 Be aware that you are always writing code for others, not only yourself. Please be mindful. In other words: be kind and take the necessary time to write good code. Its better and faster in the long term.
 
-Given our definition of sucess (Maximizing value for users, customers and collegues) a good proxy of our perfomance is the sum of the satisfaction metric of each of those groups in relation to the individauls in the company and the company itself. 
+Given our definition of sucess (Maximizing value for users, customers and collegues) a good proxy of our perfomance is the sum of the satisfaction metric of each of those groups in relation to the individuals in the company and the company itself.
 
 Food for thought:
-This three metrics should be your guiding light:
-* User satisfaction: how are the internal or external users of your code perceive the value you create for them?
-* Customer satisfaction: how satisfied are the customers? 
-* Collegue satisfaction: how satisfied are your collegues with you?
+These three metrics should be your guiding light:
+* **User satisfaction**: how do the internal or external users of your code perceive the value you create for them?
+* **Customer satisfaction**: how satisfied are the customers?
+* **Collegue satisfaction**: how satisfied are your collegues with you?
