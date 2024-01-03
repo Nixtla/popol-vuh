@@ -22,7 +22,7 @@ Corollary: the activity of these repos reflects the engagement of the community 
 
 ## Inclusion and Diversity commitment
 
-[Hiring Policies: Team as a Code](/Hiring/policies.md)
+[Hiring Policies: Team as Code](/Hiring/policies.md)
 
 ## Origin Story
 [Origin Story](OriginStory.md)
