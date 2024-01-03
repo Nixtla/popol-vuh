@@ -20,6 +20,10 @@ Corollary: the activity of these repos reflects the engagement of the community 
 ## Blurbs
 [Blurbs](Blurbs.md)
 
+## Inclusion and Diversity commitment
+
+[Hiring Policies: Team as a Code](/Hiring/policies.md)
+
 ## Origin Story
 [Origin Story](OriginStory.md)
 
