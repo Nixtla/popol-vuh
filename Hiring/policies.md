@@ -67,4 +67,4 @@ Corrolary: Your collegues are also your partners.
 ## Anti-Harassment Policy
 Subscribe to Our Anti-Harassment Policy
 
-Nixtla is committed to providing a safe and respectful workplace for all employees. Please review and subscribe to our Anti-Harassment Policy to help us maintain a positive and inclusive environment. https://support.google.com/developergroups/answer/3340512?hl=en
+Nixtla is committed to providing a safe and respectful workplace for all employees. Please review and subscribe to our [Anti-Harassment Policy](https://docs.google.com/document/d/1w42-KeHonoYi4H7okSzYRCFeOTcrDn1v/edit?usp=sharing&ouid=105667185802807035485&rtpof=true&sd=true) to help us maintain a positive and inclusive environment.
