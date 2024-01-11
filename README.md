@@ -2,7 +2,7 @@
 
 ## Nixtla's Creed - 
 
-I put culture first. [I will never stop learning](#i-will-never-stop-learning). [I will build our business through maximizing value for our users, customers and colleagues](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues). I believe that Open Source is an extremely powerful idea. [I am motivated by the impact of my work.](#i-am-motivated-by-impact) [I will communicate a lot and effectively](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company). I value the bond that connects us as a team. I support inclusion and diversity. I believe in treating each other, and the world, with compassion, kindness and respect. [I do a freaking good job.](#i-do-a-freaking-good-job)
+We put culture first. [We will never stop learning](#i-will-never-stop-learning). [We will build our business through maximizing value for our users, customers and colleagues](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues). We believe that Open Source is an extremely powerful idea. [We are motivated by the impact of my work.](#i-am-motivated-by-impact) [We will communicate a lot and effectively](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company). We value the bond that connects us as a team. We support inclusion and diversity. We believe in treating each other, and the world, with compassion, kindness and respect. [We do a freaking good job.](#i-do-a-freaking-good-job)
 
 ## Notes:
 
@@ -29,10 +29,10 @@ Corollary: the activity of these repos reflects the engagement of the community 
 
 ## Expansions of Creed - Culture comes first
 
-### [I will never stop learning](#i-will-never-stop-learning)
+### [We will never stop learning](#i-will-never-stop-learning)
 The first and most important line of the creed means that you’re never finished. There is always more to learn. The enemy of this is thinking you’re right, putting too much weight on your experience, or passing up an opportunity to understand someone’s point of view.
 
-### [I will build our business  through creating the most value for our community of users, customers and collegues.](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-colleagues)
+### [We will build our business  through creating the most value for our community of users, customers and collegues.](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-colleagues)
 
 There are four groups of people that we care most about: users, customers, collegues and investors. We believe that by optimizing the wellness of the first three groups (users, customers and colleagues) we will maximize our business value as well, which means optimizing the wellness of our investors.
 
@@ -54,7 +54,7 @@ Taken more broadly, *colleagues* are all those in the same role in the world. Ca
 Part of helping someone is communicating clearly. This doesn’t mean saying “yes” to every request. The distance between saying you’ll help someone and actually helping them is a gap often created with the best intentions. But when we don’t bridge that gap, accountability suffers throughout the organization. Our desire to help might make it tempting to tell someone we’ll do something, but we should always be impeccable with our word. 
 
 
-### [I will communicate as much as possible, because it’s the oxygen of a distributed company](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company)
+### [We will communicate as much as possible, because it’s the oxygen of a distributed company](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company)
 
 This is true in all relationships, and especially in the long distance ones we’re in during most of the year at Nixtla. 
 
@@ -63,14 +63,14 @@ Poor communication (and understanding) is at the root of every disagreement, con
 The reference to oxygen is not accidental: too much oxygen can be fatal as well. As a group scales past the level where it’s most efficient for everyone to keep up with everything, it’s important to invest time from an editorial mindset making sure that the right information isn’t just published, but it’s heard and understood by those who need to.
 
 
-### [I am motivated by impact](#i-am-motivated-by-impact)
+### [We am motivated by impact](#i-am-motivated-by-impact)
 
 **We don’t make software to make money, we make money to make more software.**
 
 However, we also like nice things and money is totally fine, and it’s completely necessary in our current socioeconomic system for everything we want to accomplish as a company — and for many things individually. 
 No one should feel embarrassed about discussing compensation with HR. But we work for more than just a paycheck.
 
-### [I do a freaking good job.](#i-do-a-freaking-good-job)
+### [We do a freaking good job.](#i-do-a-freaking-good-job)
 
 Doing a freaking good job means necessarily embracing failure in your work and other's work. Feel free to experiment and fail. Break stuff... but not the same stuff. And also, please fix it, or at least raise an issue.
 
@@ -84,7 +84,7 @@ If you are not embarrassed by your old code, you’re not learning enough. If yo
 
 Good workd is anchored in first principles thinking.
 
-I ship good code fast.
+We ship good code fast.
 
 Be aware that you are always writing code for others, not only yourself. Please be mindful. In other words: be kind and take the necessary time to write good code. Its better and faster in the long term.
 
