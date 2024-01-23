@@ -67,7 +67,7 @@ Poor communication (and understanding) is at the root of every disagreement, con
 The reference to oxygen is not accidental: too much oxygen can be fatal as well. As a group scales past the level where it’s most efficient for everyone to keep up with everything, it’s important to invest time from an editorial mindset making sure that the right information isn’t just published, but it’s heard and understood by those who need to.
 
 
-### [We am motivated by impact](#i-am-motivated-by-impact)
+### [We are motivated by impact](#i-am-motivated-by-impact)
 
 **We don’t make software to make money, we make money to make more software.**
 
