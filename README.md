@@ -2,7 +2,7 @@
 
 ## Nixtla's Creed - 
 
-We put culture first. [We will never stop learning](#i-will-never-stop-learning). [We will build our business through maximizing value for our users, customers and colleagues](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues). We believe that Open Source is an extremely powerful idea. [We are motivated by the impact of my work.](#i-am-motivated-by-impact) [We will communicate a lot and effectively](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company). We value the bond that connects us as a team. We support inclusion and diversity. We believe in treating each other, and the world, with compassion, kindness and respect. [We do a freaking good job.](#i-do-a-freaking-good-job)
+We put culture and our physical and emotional well-being first. [We will never stop learning](#i-will-never-stop-learning). [We will build our business through maximizing value for our users, customers and colleagues](#i-will-build-our-business-through-creating-the-most-value-for-our-community-of-users-customers-and-collegues). We believe that Open Source is an extremely powerful idea. [We are motivated by the impact of my work.](#i-am-motivated-by-impact) [We will communicate a lot and effectively](#i-will-communicate-as-much-as-possible-because-its-the-oxygen-of-a-distributed-company). We value the bond that connects us as a team. We support inclusion and diversity. We believe in treating each other, and the world, with compassion, kindness and respect. [We do a freaking good job.](#i-do-a-freaking-good-job)
 
 ## Notes:
 
