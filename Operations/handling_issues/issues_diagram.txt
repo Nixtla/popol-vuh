@@ -1,0 +1,61 @@
+// Use https://app.eraser.io/ to edit this diagram
+
+title Handling User-Reported Issues
+
+// Define groups for each stage
+Report (@tracykteal) [color: lightblue] {
+  Ops Mails [label: Ops Mail 📧]
+  Slack [label: Slack💬]
+  Readme [label: Readme 📄]
+  Social Media [label: Social Media 📱]
+  GitHub [label: GitHub 🐙]
+  Ensure Well-Reported [label: Ensure the Issue is Well-Reported and Debuggable 🛠️]
+}
+
+Triage [color: lightgreen] {
+  Create Issue [label: Create Issue on Nixtla/Nixtla (@tracykteal) 🐙]
+  Notify User [label: Notify User of Issue Creation (@tracykteal) 📢]
+  Suggest Internal Assignment [label: Suggest Internal Assignment (@elephaint) 🗂️]
+  
+  TimeGPT Model [label: @elephaint/@marcopeix/@Yibei990826]
+  TimeGPT Backend [label: @jmoralez]
+  Accounts Dashboards Pricing [label: Web]
+  Unresolvable Issues [label: @AzulGarza ]
+  @MMenchero @tracykteal [label: @MMenchero/@tracykteal]
+}
+
+Resolve [color: lightcoral] {
+  Create Mirror Issue [label: Create Mirror Issue 🔄]
+  Communicate Resolution [label: Communicate Resolution (In Nixtla/Nixtla) 📞]
+}
+
+// Define the flow
+Ops Mails [shape: oval] > Ensure Well-Reported
+Slack [shape: oval] > Ensure Well-Reported
+Readme [shape: oval] > Ensure Well-Reported
+Social Media [shape: oval] > Ensure Well-Reported
+GitHub [shape: oval] > Ensure Well-Reported
+
+Ensure Well-Reported > Create Issue
+Create Issue > Notify User
+Notify User > Suggest Internal Assignment
+
+
+Suggest Internal Assignment > @MMenchero @tracykteal: R SDK
+Suggest Internal Assignment > TimeGPT Backend: TimeGPT (modal backend) 
+Suggest Internal Assignment > Accounts Dashboards Pricing: Accounts, Dashboard, middleware 
+Suggest Internal Assignment > TimeGPT Model: Python SDK 
+Suggest Internal Assignment > Unresolvable Issues: Unresolvable Issues 
+
+
+
+@MMenchero @tracykteal > Create Mirror Issue
+TimeGPT Backend > Create Mirror Issue
+Accounts Dashboards Pricing > Create Mirror Issue
+Unresolvable Issues > Create Mirror Issue
+TimeGPT Model > Create Mirror Issue
+
+Create Mirror Issue > Communicate Resolution
+Communicate Resolution > Close Issue [shape: oval, label: Close Original Issue (@elephaint) ✅]
+Communicate Resolution > Inform User [shape: oval, label: Inform User of Resolution (@tracykteal) 📧]
+
