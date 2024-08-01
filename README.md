@@ -30,6 +30,10 @@ Corollary: the activity of these repos reflects the engagement of the community 
 ## Investors
 [Investors](Investors.md)
 
+## Technical Creed
+
+[Technical Creed](./Operations/technical_creed.md)
+
 
 ## Expansions of Creed - Culture comes first
 
