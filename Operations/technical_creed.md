@@ -117,7 +117,7 @@ We aim to be as type-safe as possible. Types are not only built-in tests, but al
 We consider things that don’t alter the execution of code to be “style”. We aim to keep it consistent and delegate these tasks and decisions to automatic tools as much as possible, in an effort to maintain developer velocity by reducing the time we have to spend thinking about this.
 - **Prettier.** Whatever prettier outputs is the correct style. 
 - **ESLint.** Whatever ESLint is configured to warn about, is wrong style.
-- **We use CamelCase**, trailing commas, and semicolons.
+- **We use camelCase** for variables and **PascalCase** for types and classnames, [trailing commas](https://github.com/Nixtla/nixtla-admin/pull/9), and [semicolons](https://github.com/Nixtla/nixtla-admin/pull/15).
 We are flexible to changes to our style, as long was we can ensure consistency and it helps us achieve our velocity and correctness goals.
 
 #### Maleable code
