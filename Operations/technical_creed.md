@@ -123,7 +123,8 @@ We are flexible to changes to our style, as long was we can ensure consistency a
 #### Maleable code
 Our codebase is very dynamic and our company young and experimenting. Most lines of code we write might not exist as written in a few months time
 - Writing code that’s easily findable and replaceable. Verbosity is not our enemy but our friend. The less we can overload a word, term or token, the better.
-- There’s many ways to put the same pixels on the screen. We err for the simplest that best solves the problem
+- There’s many ways to put the same pixels on the screen. We err for the simplest solution that best solves the problem, avoiding over-engineering and unnecessary complexity.
+- Perfectionism is the enemy of progress. We iterate.
 
 
 ## 🚀 We ship!
